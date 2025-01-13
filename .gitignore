@@ -11,6 +11,9 @@ venv/
 ENV/
 env/
 
+# Text files
+*.txt 
+
 # Log files
 *.log
 
