@@ -1,0 +1,49 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.egg-info/
+
+# Virtual environment
+.env/
+venv/
+ENV/
+env/
+
+# Log files
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS specific files
+.DS_Store
+
+# Python cache files
+*.pytest_cache/
+.pytest_cache/
+
+# Debugging
+*.swp
+*.swo
+
+# IDE specific
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Build and packaging
+build/
+dist/
+*.egg
+*.egg-info/
+
+# Output files
+*.txt_output.txt
+
+# Custom (specific to your needs)
+output_*.txt
+*.db
+*.sqlite3
